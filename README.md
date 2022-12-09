@@ -1,5 +1,4 @@
 Markdown CheatSheet <a name ="TOP"></a>
-====================
 
 - - - -
 # Heading 1 #
@@ -156,3 +155,8 @@ Emoji:
 :mask:
 
   Nichakamol Sanghong 642115015
+# INFORMATION #
+
+    NAME :  PHACHARANAN THUMJAIKUL
+
+    STUDENT ID :  642115026
